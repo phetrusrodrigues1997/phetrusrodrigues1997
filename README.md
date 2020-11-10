@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Computer Science student at Aston University, currently in his second year, wants to work with back end software development and he loves 
+I am a second year Computer Science student at Aston University, who wants to work with back end software development. In the order of most to least I have a love/hate relationship with: 
 
 ✨Java
 
