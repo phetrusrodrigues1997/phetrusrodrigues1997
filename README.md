@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am a second year Computer Science student at Aston University, who wants to work with back end software development. In the order of most to least I have a love/hate relationship with: 
+I am a second year Computer Science student at Aston University, who wants to work with back end software development. I have a love/hate relationship with: 
 
-✨Java
+✨Java (Over a year)
 
-✨Python 
+✨Python (6 months)
 
-✨SQL.
+✨SQL (6 months)
 
 
 
