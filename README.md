@@ -4,9 +4,9 @@ I am a second year Computer Science student at Aston University, who wants to wo
 
 ✨Java (Over a year)
 
-✨Python (6 months)
+✨SQL (Over a year)
 
-✨SQL (6 months)
+✨Python (6 months)
 
 
 
