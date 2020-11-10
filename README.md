@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Computer Science student at Aston University, currently in his second year, wants to work with back end software development and he loves ✨Java, ✨Python and ✨SQL.
+Computer Science student at Aston University, currently in his second year, wants to work with back end software development and he loves 
+✨Java
+✨Python 
+✨SQL.
 
 
 
