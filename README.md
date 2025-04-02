@@ -8,7 +8,6 @@ I have just graduated with a first class degree in computer science. The plan is
 
 ✨Python (6 months)
 
-(P.s) Don't judge my github files just yet, I am a noob. Please give me a few years (Written on 1 August, 2022)
 
 [![Linkedin Badge](https://img.shields.io/badge/-phetrusrodrigues1997-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phetrus-rodrigues-3a2806140// "Connect on LinkedIn")
 [![GitHub Badge](https://img.shields.io/github/followers/phetrusrodrigues1997?label=follow&style=social)](https://github.com/phetrusrodrigues1997)
